@@ -1,1 +1,2 @@
 # Birthdayparadox
+The provided code generates 50 random birthdays and then sorts and prints them in chronological order. It incorporates considerations for leap years and varying days in different months. The underlying concept being explored is known as the "birthday paradox," which refers to the counterintuitive probability that in a relatively small group of people, there is a high likelihood that at least two individuals share the same birthday. The code uses random number generation to simulate birthdays, including leap years, and then displays them in ascending order.
